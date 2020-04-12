@@ -1,0 +1,1 @@
+Create database and set name = todo || then import my sql file
